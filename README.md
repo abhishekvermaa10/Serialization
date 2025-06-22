@@ -1,4 +1,4 @@
-<h1 align="center">Date/Time API</h1>
+<h1 align="center">Serialization</h1>
 
 <p align="justify">
     Welcome to the <b>Serialization</b> repository! This repository offers practical demos and in-depth explanations covering the core concepts and advanced features of <b>Java Serialization</b>. It includes real-world use cases, common pitfalls, and best practices such as handling <b>transient</b> and <b>static</b> variables, working with <b>serialVersionUID</b>, implementing <b>Externalizable</b>, and managing serialization in <b>inheritance</b> and <b>multi-threaded</b> environments. A must-have resource for mastering object persistence and preparing for Java interviews.
@@ -28,11 +28,11 @@
 
 <h3 align="left">⚙️ Prerequisites</h3>
 <p align="justify">
-    These demos have been built using <b>JDK 17</b>. While it is
-    recommended to have JDK 17 installed, the examples can be adapted to other Java versions with minimal modifications.
+    These demos have been built using <b>JDK 21</b>. While it is
+    recommended to have JDK 21 installed, the examples can be adapted to other Java versions with minimal modifications.
 </p>
 <p align="justify">
-    Before diving into Date/Time API, ensure you're comfortable with the following concepts:
+    Before diving into Serialization, ensure you're comfortable with the following concepts:
 <ul>
     <li><a href="https://abhishekvermaa10.github.io/Java Basics"
         target="_blank">Java Basics</a></li>
